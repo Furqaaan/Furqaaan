@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**Furqaaan/Furqaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/46px-Laravel.svg.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png" />](#)
+[<img src="https://img.icons8.com/dusk/48/000000/php-logo.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/html-5--v2.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/css3.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/firebase.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/sass.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/jira.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/git.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/bootstrap.png" />](#)
+[<img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/jquery_plain_wordmark_logo_icon_146445.png" />](#)
+[<img src="https://img.icons8.com/color/48/000000/linux--v1.png" />](#)
+[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_vscode_insiders_icon_130085.png" />](#)
+[<img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/mysqlworkbench_93532.png" />](#)
