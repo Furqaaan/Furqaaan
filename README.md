@@ -21,4 +21,3 @@
 [<img src="https://cdn.icon-icons.com/icons2/3053/PNG/48/postman_macos_bigsur_icon_189815.png" />](#)
 [<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="48px"/>](#)
 [<img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="48px"/>](#)
-[<img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" height="48px"/>](#)
