@@ -22,3 +22,5 @@
 [<img src="logos/vite.svg" width="48px" alt="Vite" />](#)
 [<img src="logos/netlify.png" width="48px" alt="Netlify" />](#)
 [<img src="logos/figma.png"/>](#)
+[<img src="logos/heroku.png" width="48px" alt="Heroku">](#)
+[<img src="logos/redux.png" width="48px" alt="Redux"/>](#)
