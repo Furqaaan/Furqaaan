@@ -22,8 +22,8 @@
 [<img src="logos/vite.svg" width="44px" alt="Vite" />](#)
 [<img src="logos/netlify.png" width="44px" alt="Netlify" />](#)
 [<img src="logos/figma.png" width="44px" />](#)
-[<img src="logos/heroku.png" width="40px" alt="Heroku">](#)
-[<img src="logos/redux.png" width="44px" alt="Redux"/>](#)
-[<img src="logos/typescript.png" width="40px" alt="Typescript"/>](#)
-[<img src="logos/tailwind.png" width="48px" alt="Tailwind"/>](#)
+[<img src="logos/heroku.png" width="40px" alt="Heroku">](#)&nbsp;
+[<img src="logos/redux.png" width="44px" alt="Redux"/>](#)&nbsp;
+[<img src="logos/typescript.png" width="40px" alt="Typescript"/>](#)&nbsp;
+[<img src="logos/tailwind.png" width="48px" alt="Tailwind"/>](#)&nbsp;
 [<img src="logos/strapi.png" width="40px" alt="Strapi"/>](#)
