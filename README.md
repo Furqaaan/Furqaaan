@@ -24,3 +24,6 @@
 [<img src="logos/figma.png" width="44px" />](#)
 [<img src="logos/heroku.png" width="40px" alt="Heroku">](#)
 [<img src="logos/redux.png" width="44px" alt="Redux"/>](#)
+[<img src="logos/typescript" width="40px" alt="Typescript"/>](#)
+[<img src="logos/tailwind" width="48px" alt="Tailwind"/>](#)
+[<img src="logos/strapi" width="40px" alt="Strapi"/>](#)
