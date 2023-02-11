@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Furqaaan/Furqaaan/master/github-user-contribution.svg" />
+<img src="https://raw.githubusercontent.com/Furqaaan/Furqaaan/master/user-contribution.svg" />
 
 [<img src="logos/laravel.png" alt="Laravel" />](#)
 [<img src="logos/react.png" alt="React" />](#)
