@@ -15,24 +15,24 @@
 [<img src="logos/bootstrap.png" alt="Bootstrap" />](#)
 [<img src="logos/jquery.png" alt="jQuery" />](#)
 [<img src="logos/linux.png" alt="Linux" />](#)
-[<img src="logos/vscode.png" alt="VSCode" />](#)
-[<img src="logos/mysql.png" alt="MySQL" />](#)
-[<img src="logos/express.png" width="48px" alt="Express" />](#)
+[<img src="logos/vscode.png" alt="VSCode" />](#)&nbsp;
+[<img src="logos/mysql.png" alt="MySQL" />](#)&nbsp;
+[<img src="logos/express.png" width="48px" alt="Express" />](#)&nbsp;
 [<img src="logos/postman.png" alt="Postman" />](#)
 [<img src="logos/vite.svg" width="44px" alt="Vite" />](#)
 [<img src="logos/netlify.png" width="44px" alt="Netlify" />](#)
 [<img src="logos/figma.png" width="44px" />](#)
 [<img src="logos/heroku.png" width="40px" alt="Heroku">](#)&nbsp;
 [<img src="logos/redis.png" width="50px" alt="Redis"/>](#)&nbsp;
-[<img src="logos/redux.png" width="44px" alt="Redux"/>](#)&nbsp;
-[<img src="logos/typescript.png" width="40px" alt="Typescript"/>](#)&nbsp;
+[<img src="logos/redux.png" width="44px" alt="Redux"/>](#)&nbsp;&nbsp;
+[<img src="logos/typescript.png" width="40px" alt="Typescript"/>](#)&nbsp;&nbsp;
 [<img src="logos/tailwind.png" width="48px" alt="Tailwind"/>](#)&nbsp;
-[<img src="logos/strapi.png" width="40px" alt="Strapi"/>](#)&nbsp;
-[<img src="logos/gitlab.png" width="40px" alt="Redis"/>](#)&nbsp;
+[<img src="logos/strapi.png" width="40px" alt="Strapi"/>](#)&nbsp;&nbsp;&nbsp;
 [<img src="logos/npm.png" width="40px" alt="NPM"/>](#)&nbsp;
 [<img src="logos/vue.png" width="48px" alt="Vue"/>](#)&nbsp;
 [<img src="logos/docker.webp" width="48px" alt="Docker"/>](#)&nbsp;
 [<img src="logos/authentik.png" width="50px" alt="Authentik"/>](#)&nbsp;
-[<img src="logos/nest.png" width="42px" alt="Nest JS"/>](#)&nbsp;
-[<img src="logos/aws.png" width="48px" alt="AWS"/>](#)&nbsp;
-[<img src="logos/k8.png" width="44px" alt="Kubernetes"/>](#)&nbsp;
+[<img src="logos/nest.png" width="42px" alt="Nest JS"/>](#)&nbsp;&nbsp;
+[<img src="logos/aws.png" width="48px" alt="AWS"/>](#)&nbsp;&nbsp;
+[<img src="logos/k8.png" width="44px" alt="Kubernetes"/>](#)&nbsp;&nbsp;
+[<img src="logos/gitlab.png" width="40px" alt="Gitlab"/>](#)&nbsp;
