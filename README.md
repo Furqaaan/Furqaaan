@@ -1,34 +1,34 @@
 <img src="https://raw.githubusercontent.com/Furqaaan/Furqaaan/master/user-contribution.svg" />
 
-[<img src="logos/laravel.png" alt="Laravel" />](#)
-[<img src="logos/react.png" alt="React" />](#)
-[<img src="logos/node.png" alt="Node" />](#)
-[<img src="logos/javascript.png" alt="Javascript" />](#)
-[<img src="logos/mongo.png" alt="MongoDB" />](#)
-[<img src="logos/php.png" alt="PHP" />](#)
-[<img src="logos/html.png" alt="HTML" />](#)
-[<img src="logos/css.png" alt="CSS" />](#)
-[<img src="logos/firebase.png" alt="Firebase" />](#)
-[<img src="logos/sass.png" alt="Sass" />](#)
-[<img src="logos/jira.png" alt="Jira" />](#)
-[<img src="logos/git.png" alt="Git" />](#)
-[<img src="logos/bootstrap.png" alt="Bootstrap" />](#)
-[<img src="logos/jquery.png" alt="jQuery" />](#)
-[<img src="logos/linux.png" alt="Linux" />](#)
-[<img src="logos/vscode.png" alt="VSCode" />](#)&nbsp;
-[<img src="logos/mysql.png" alt="MySQL" />](#)&nbsp;
+[<img src="logos/laravel.png" alt="Laravel" />](#)&nbsp;
+[<img src="logos/react.png" alt="React" />](#)&nbsp;
+[<img src="logos/node.png" alt="Node" />](#)&nbsp;
+[<img src="logos/javascript.png" alt="Javascript" />](#)&nbsp;
+[<img src="logos/mongo.png" alt="MongoDB" />](#)&nbsp;
+[<img src="logos/php.png" alt="PHP" />](#)&nbsp;
+[<img src="logos/html.png" alt="HTML" />](#)&nbsp;
+[<img src="logos/css.png" alt="CSS" />](#)&nbsp;
+[<img src="logos/firebase.png" alt="Firebase" />](#)&nbsp;
+[<img src="logos/sass.png" alt="Sass" />](#)&nbsp;
+[<img src="logos/jira.png" alt="Jira" />](#)&nbsp;
+[<img src="logos/git.png" alt="Git" />](#)&nbsp;
+[<img src="logos/bootstrap.png" alt="Bootstrap" />](#)&nbsp;
+[<img src="logos/jquery.png" alt="jQuery" />](#)&nbsp;
+[<img src="logos/linux.png" alt="Linux" />](#)&nbsp;
+[<img src="logos/vscode.png" alt="VSCode" />](#)&nbsp;&nbsp;
+[<img src="logos/mysql.png" alt="MySQL" />](#)&nbsp;&nbsp;
 [<img src="logos/express.png" width="48px" alt="Express" />](#)&nbsp;
-[<img src="logos/postman.png" alt="Postman" />](#)
-[<img src="logos/vite.svg" width="44px" alt="Vite" />](#)
-[<img src="logos/netlify.png" width="44px" alt="Netlify" />](#)
-[<img src="logos/figma.png" width="44px" />](#)
+[<img src="logos/postman.png" alt="Postman" />](#)&nbsp;
+[<img src="logos/vite.svg" width="44px" alt="Vite" />](#)&nbsp;
+[<img src="logos/netlify.png" width="44px" alt="Netlify" />](#)&nbsp;
+[<img src="logos/figma.png" width="44px" />](#)&nbsp;
 [<img src="logos/heroku.png" width="40px" alt="Heroku">](#)&nbsp;
 [<img src="logos/redis.png" width="50px" alt="Redis"/>](#)&nbsp;
-[<img src="logos/redux.png" width="44px" alt="Redux"/>](#)&nbsp;&nbsp;
-[<img src="logos/typescript.png" width="40px" alt="Typescript"/>](#)&nbsp;&nbsp;
-[<img src="logos/tailwind.png" width="48px" alt="Tailwind"/>](#)&nbsp;
-[<img src="logos/strapi.png" width="40px" alt="Strapi"/>](#)&nbsp;&nbsp;&nbsp;
-[<img src="logos/npm.png" width="40px" alt="NPM"/>](#)&nbsp;
+[<img src="logos/redux.png" width="44px" alt="Redux"/>](#)&nbsp;&nbsp;&nbsp;
+[<img src="logos/typescript.png" width="40px" alt="Typescript"/>](#)&nbsp;&nbsp;&nbsp;
+[<img src="logos/tailwind.png" width="48px" alt="Tailwind"/>](#)&nbsp;&nbsp;
+[<img src="logos/strapi.png" width="40px" alt="Strapi"/>](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="logos/npm.png" width="40px" alt="NPM"/>](#)&nbsp;&nbsp;
 [<img src="logos/vue.png" width="48px" alt="Vue"/>](#)&nbsp;
 [<img src="logos/docker.webp" width="48px" alt="Docker"/>](#)&nbsp;
 [<img src="logos/authentik.png" width="50px" alt="Authentik"/>](#)&nbsp;
