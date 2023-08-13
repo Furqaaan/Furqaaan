@@ -31,8 +31,9 @@
 [<img src="logos/npm.png" width="40px" alt="NPM"/>](#)&nbsp;&nbsp;
 [<img src="logos/vue.png" width="48px" alt="Vue"/>](#)&nbsp;
 [<img src="logos/docker.webp" width="48px" alt="Docker"/>](#)&nbsp;
-[<img src="logos/authentik.png" width="50px" alt="Authentik"/>](#)&nbsp;
-[<img src="logos/nest.png" width="42px" alt="Nest JS"/>](#)&nbsp;&nbsp;
-[<img src="logos/aws.png" width="48px" alt="AWS"/>](#)&nbsp;&nbsp;
-[<img src="logos/k8.png" width="44px" alt="Kubernetes"/>](#)&nbsp;&nbsp;
-[<img src="logos/gitlab.png" width="40px" alt="Gitlab"/>](#)&nbsp;
+[<img src="logos/authentik.png" width="50px" alt="Authentik"/>](#)&nbsp;&nbsp;
+[<img src="logos/nest.png" width="42px" alt="Nest JS"/>](#)&nbsp;&nbsp;&nbsp;
+[<img src="logos/aws.png" width="48px" alt="AWS"/>](#)&nbsp;&nbsp;&nbsp;
+[<img src="logos/k8.png" width="44px" alt="Kubernetes"/>](#)&nbsp;&nbsp;&nbsp;
+[<img src="logos/gitlab.png" width="40px" alt="Gitlab"/>](#)&nbsp;&nbsp;&nbsp;
+[<img src="logos/rmq.png" width="38px" alt="Gitlab"/>](#)&nbsp;
